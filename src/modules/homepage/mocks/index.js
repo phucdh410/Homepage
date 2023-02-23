@@ -1,0 +1,58 @@
+export const MOCK_LIST_BANNERS = [
+  {
+    id: 1,
+    title: 'Ngày hội sinh viên cấp trường',
+    start: '2022-01-01',
+    end: '2023-12-25',
+    active: true,
+  },
+  {
+    id: 2,
+    title: 'Ngày hội sinh viên cấp trường',
+    start: '2022-01-01',
+    end: '2023-12-25',
+    active: true,
+  },
+  {
+    id: 3,
+    title: 'Ngày hội sinh viên cấp trường',
+    start: '2022-01-01',
+    end: '2023-12-25',
+    active: false,
+  },
+  {
+    id: 4,
+    title: 'Ngày hội sinh viên cấp trường',
+    start: '2022-01-01',
+    end: '2023-12-25',
+    active: true,
+  },
+  {
+    id: 5,
+    title: 'Ngày hội sinh viên cấp trường',
+    start: '2022-01-01',
+    end: '2023-12-25',
+    active: false,
+  },
+  {
+    id: 6,
+    title: 'Ngày hội sinh viên cấp trường',
+    start: '2022-01-01',
+    end: '2023-12-25',
+    active: true,
+  },
+  {
+    id: 7,
+    title: 'Ngày hội sinh viên cấp trường',
+    start: '2022-01-01',
+    end: '2023-12-25',
+    active: false,
+  },
+  {
+    id: 8,
+    title: 'Ngày hội sinh viên cấp trường',
+    start: '2022-01-01',
+    end: '2023-12-25',
+    active: true,
+  },
+];

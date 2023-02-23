@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      // "@/*": ["./src/*"]
+      "@assets/*": ["./src/common/assets/*"],
+      "@apis/*": ["./src/apis/*"],
+      "@controls": ["./src/common/components/controls/index.js"],
+      "@layouts": ["./src/common/components/layouts/index.js"],
+      "@others": ["./src/common/components/others/index.js"],
+      "@constants/*": ["./src/common/constants/*"],
+      "@modules/*": ["./src/modules/*"],
+      "@slices/*": ["./src/redux/slices/*"],
+      "@redux/*": ["./src/redux/"],
+      "@routes/*": ["./src/routes/*"],
+      "@theme/*": ["./src/theme/*"],
+      "@axios/*": ["./src/utils/axios/*"],
+      "@react-query/*": ["./src/utils/react-query"],
+      "@func": ["./src/utils/func/index.js"],
+      "@hooks": ["./src/utils/hooks/index.js"],
+      "@confirm": ["./src/utils/confirm/index.js"]
+    }
+  },
+  "exclude": ["node_modules", "dist"]
+}
